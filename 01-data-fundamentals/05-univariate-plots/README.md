@@ -1,9 +1,9 @@
 # Assignment 05: Univariate Plots (Titanic Dataset)
 
-## 📌 Objective
+## Objective
 Visualize individual variables in the dataset using univariate plots to understand distributions and patterns.
 
-## ⚙️ What I Did
+## What I Did
 - Visualized survival distribution using bar plot
 - Analyzed age distribution using histogram
 - Examined fare distribution using boxplot

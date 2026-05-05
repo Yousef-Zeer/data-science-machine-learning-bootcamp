@@ -1,11 +1,11 @@
 # Assignment 04: Ensemble Trees
 
-## 📌 Objective
+## Objective
 Compare ensemble regression models (Bagging Trees and Random Forest) and improve performance using hyperparameter tuning for predicting house prices.
 
 
 
-## ⚙️ What I Did
+## What I Did
 - Loaded and explored Boston Housing dataset  
 - Split data into training and testing sets  
 - Trained a default Bagging Regressor model  

@@ -1,12 +1,12 @@
 # Assignment 06: Stroke Detection
 
-## 📌 Objective
+## Objective
 Build and compare multiple classification models (Logistic Regression, KNN, Random Forest) to predict stroke cases.
 
 
-## ⚙️ What I Did
+## What I Did
 - Loaded and explored stroke dataset  
-- Cleaned and preprocessed the data (handled missing values and feature types)  
+- Cleaned and preprocessed the data 
 - Built a full preprocessing pipeline using `ColumnTransformer`  
 - Trained multiple classification models:
   - Logistic Regression  

@@ -1,12 +1,12 @@
 # Data Science Fundamentals
 
-## 📌 Overview
+## Overview
 This repository contains my assignments for the Fundamentals track of a Data Science and Machine Learning Bootcamp.  
 It focuses on building core skills in data analysis and visualization using Python.
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 - Python for Data Science
 - Pandas & Data Manipulation
 - Exploratory Data Analysis
@@ -15,7 +15,7 @@ It focuses on building core skills in data analysis and visualization using Pyth
 
 ---
 
-## 📂 Assignments
+## Assignments
 - Assignment 01: For Loops  
 - Assignment 02: Central Tendency  
 - Assignment 03: GroupBy Analysis  
@@ -25,5 +25,5 @@ It focuses on building core skills in data analysis and visualization using Pyth
 
 ---
 
-## 🎯 Goal
+## Goal
 Build strong foundations in data science through practical, real-world datasets.

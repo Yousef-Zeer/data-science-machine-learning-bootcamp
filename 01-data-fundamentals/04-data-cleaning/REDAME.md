@@ -1,9 +1,9 @@
 # Assignment 04: Data Cleaning (Titanic Dataset)
 
-## 📌 Objective
+## Objective
 Clean and prepare a messy Titanic dataset for analysis by handling data types, missing values, duplicates, and inconsistent data.
 
-## ⚙️ What I Did
+## What I Did
 - Loaded and explored the dataset in Colab
 - Converted incorrect data types (e.g. Fare, SibSp)
 - Dropped unnecessary columns and duplicates

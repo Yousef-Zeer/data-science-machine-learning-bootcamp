@@ -1,9 +1,9 @@
 # Assignment 06: Data Visualization (Insurance Dataset)
 
-## 📌 Objective
+##  Objective
 Explore and visualize relationships in the insurance dataset using univariate and multivariate plots.
 
-## ⚙️ What I Did
+## What I Did
 - Analyzed correlations using a heatmap
 - Compared insurance charges across smokers vs non-smokers and by gender
 - Visualized relationships between age, BMI, and charges using scatter and regression plots
